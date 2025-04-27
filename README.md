@@ -11,7 +11,7 @@ TO DO
   of characters received from the server. The second line should contain the
   complete String of characters sent by the server.
 
- ─────────────────────────────────────────────────────────────────────────────  
+ ─────────────────────────────────────────────────────
 
 ## HINTS
 
